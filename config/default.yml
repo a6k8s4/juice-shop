@@ -9,7 +9,7 @@ application:
   showChallengeSolvedNotifications: true
   showCtfFlagsInNotifications: true
   showGitHubRibbon: false
-  showChallengeHints: true
+  showChallengeHints: false
   theme: "slate" # Options: cerulean  cosmo  cyborg  darkly  flatly lumen  paper  readable  sandstone  simplex  slate  spacelab  superhero  united  yeti
   twitterUrl: "https://www.twitter.com/"
   facebookUrl: "https://www.facebook.com/OwaspCuttack/"
