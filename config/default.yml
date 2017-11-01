@@ -50,11 +50,11 @@ products:
     reviews:
       - text: 'Fry liked it too.'
         author: 'bender'
-  - name: 'OWASP T-Shirt'
+  - name: 'T-Shirt'
     description: 'Real fans wear it 24/7!'
     price: 22.49
     image: 'fan_shirt.jpg'
-  - name: 'OWASP Girlie-Shirt'
+  - name: 'Girlie-Shirt'
     description: 'For serious Capture-the-Flag heroines only!'
     price: 22.49
     image: 'fan_girlie.jpg'
@@ -68,24 +68,24 @@ products:
     price: 29.99
     image: 'undefined.jpg'
     useForChristmasSpecialChallenge: true
-  - name: 'OWASP Sticker (2015/2016 design)'
+  - name: 'Sticker (2015/2016 design)'
     description: 'Die-cut sticker with the official 2015/2016 logo. By now this is a rare collectors item. <em>Out of stock!</em>'
     price: 999.99
     image: 'sticker.png'
     deletedDate: '2017-04-28'
-  - name: 'OWASP Sticker'
+  - name: 'Sticker'
     description: 'You want to put <a href="https://www.stickermule.com/de/user/1070702817/Sticker" target="_blank">one of these beauties</a> on your laptop. You definitely want that. Trust me.'
     price: 2.99
     image: 'sticker_facelift.png'
-  - name: 'OWASP CTF Sticker'
+  - name: 'CTF Sticker'
     description: 'If you are a serious flag hunter, this is a mandatory laptop decal.'
     price: 2.99
     image: 'ctf_sticker.png'
-  - name: 'OWASP Mug'
+  - name: 'Mug'
     description: 'Black mug with regular logo on one side and CTF logo on the other! Your colleagues will envy you!'
     price: 21.99
     image: 'fan_mug.jpg'
-  - name: 'OWASP Hoodie'
+  - name: 'Hoodie'
     description: 'Mr. Robot-style apparel. But in black. And with logo.'
     price: 49.99
     image: 'fan_hoodie.jpg'
@@ -123,7 +123,7 @@ products:
     reviews:
       - text: 'A vital ingredient for a succesful playthrough.'
         author: 'jim'
-  - name: 'OWASP  Logo (3D-printed)'
+  - name: 'Logo (3D-printed)'
     description: 'This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.'
     price: 99.99
     image: '3d_keychain.jpg' # Exif metadata contains "OpenSCAD" as subtle hint...
